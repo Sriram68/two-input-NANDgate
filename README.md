@@ -1,4 +1,4 @@
-   # Two-input NAND gate design
+ #  Two-input NAND gate in 28nm technology
 This repository presents the design of Two input NAND gate using Synopsis Custom Compiler on 28nm CMOS Tecgnology
 # Table of contents
 [Introduction](https://github.com/Sriram68/two-input-NANDgate/blob/main/README.md#introduction)
@@ -69,16 +69,12 @@ in both cases is a logic “1”.
 • Synopsys 28nm PDK:
 
  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit.
- # Circuit diagram in Synopsys Custom Compiler
- • Synopsys Custom Compiler:
- The Synopsys Custom Compiler™ design environment is a modern solution for full-custom analog, custom digital, and mixed-signal IC design. As the heart of the Synopsys Custom Design Platform, Custom Compiler provides design entry, simulation management and analysis, and custom layout editing features. This tool was used to design the circuit on a transistor level.
 
-• Synopsys Primewave:
- PrimeWave™ Design Environment is a comprehensive and flexible environment for simulation setup and analysis of analog, RF, mixed-signal design, custom-digital and memory designs within the Synopsys Custom Design Platform. This tool helped in various types of simulations of the above designed circuit.
-
-• Synopsys 28nm PDK:
- The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit
  # Circuit diagram in Synopsys Custom Compiler
+ 
+The schematic of "two input NAND gate" has been created using 2 pmos and 2 nmos transistors as shown in the below figure.
+
+
  ![circuit diagram NAND](https://user-images.githubusercontent.com/100473775/156037022-8d4d4da2-7315-450d-9943-69893bd65114.png)
 
  
@@ -86,6 +82,13 @@ in both cases is a logic “1”.
  Refer to the netlist of the NAND gate [netlist](https://github.com/Sriram68/two-input-NANDgate/blob/main/NAND.cir.out)
  
  # Output waveform of the circuit
+ After creating and saving the schematic go to 'Tools' and open 'Primewave' to start the simulation. In the Primewave select the 'model file' i.e the '28nm PDK's .lib file present in the HSPICE folder. After this select the 'tran' analysis in the analysis window. Then add the inputs and outputs which needs to be plotted.
+ 
+Then go to 'Simulations -> Netlist and Run' to generate a netlist and run the simulation.
+
+When both the inputs are high(i.e.,1.05v) the output of the NAND gate is low(i.e.,0v) and vice-versa. When one of the inputs is high and the other one is low, then the output will be high.
+
+Lower reference voltage, Vlow for this circuit is 0v and higher reference voltage, Vhigh is 1.05v.
  ![output waveform NAND](https://user-images.githubusercontent.com/100473775/156036923-d9ea5e16-abef-413e-aec3-c02d695bee6f.png)
 
  
