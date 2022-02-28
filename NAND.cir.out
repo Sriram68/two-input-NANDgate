@@ -1,0 +1,53 @@
+*  Generated for: PrimeSim
+*  Design library name: cp_lib1
+*  Design cell name: cp_nand
+*  Design view name: schematic
+.lib 'saed32nm.lib' TT
+
+*Custom Compiler Version S-2021.09
+*Mon Feb 28 13:33:14 2022
+
+.global gnd!
+********************************************************************************
+* Library          : cp_lib1
+* Cell             : cp_nand
+* View             : schematic
+* View Search List : hspice hspiceD schematic spice veriloga
+* View Stop List   : hspice hspiceD
+********************************************************************************
+xm1 net71 d_in2 gnd! gnd! n105 w=0.14u l=0.05u nf=1 m=1
+xm0 net27 d_in1 net71 gnd! n105 w=0.14u l=0.05u nf=1 m=1
+xm6 net27 d_in2 net63 net63 p105 w=0.35u l=0.05u nf=1 m=1
+xm17 net27 d_in1 net63 net63 p105 w=0.35u l=0.05u nf=1 m=1
+v21 d_in1 gnd! dc=0 pulse ( 0 1.05 2u 0.1u 0.1u 5u 10u )
+v23 d_in2 gnd! dc=0 pulse ( 0 1.05 5u 0.1u 0.1u 5u 10u )
+v18 net63 gnd! dc=1.8
+
+
+
+
+
+
+
+
+.tran '1u' '20u' name=tran
+
+.option primesim_remove_probe_prefix = 0
+.probe v(*) i(*) level=1
+.probe tran v(d_in1) v(d_in2) v(net27)
+
+.temp 25
+
+
+
+.option primesim_output=wdf
+
+
+.option parhier = LOCAL
+
+
+
+
+
+
+.end
