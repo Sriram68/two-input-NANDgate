@@ -13,9 +13,9 @@ This repository presents the design of Two input NAND gate using Synopsis Custom
 
 [Circuit diagram in Synopsys Custom Compiler]()
 
-[Netlists]()
+[Netlist]()
 
-[Plots]()
+[Output waveform of the circuit]()
 
 [Author]()
 
@@ -79,4 +79,27 @@ in both cases is a logic “1”.
 • Synopsys 28nm PDK:
  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit
  # Circuit diagram in Synopsys Custom Compiler
+ 
+ 
+ # Netlist
+ Refer to the netlist of the NAND gate [netlist](https://github.com/Sriram68/two-input-NANDgate/blob/main/NAND.cir.out)
+ 
+ # Output waveform of the circuit
+ 
+ 
+ # Author
+ 
+ Sriram G V, B.Tech(ECE), Sastra Deemed to be University, Thanjavur.
+ # Acknowledgements
+• [Cloud Based Analog IC Design Hackathon](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
+ 
+• [Synopsys India](https://www.synopsys.com/)
+
+• [VLSI System Design (VSD) Corp. Pvt. Ltd India](https://www.vlsisystemdesign.com/)
+# References
+[1] International Journal of Scientific &
+Engineering Research, Volume 7, Issue 1,
+January-2016 ISSN 2229-5518
+
+[2] https://eepower.com/technicalarticles/basic-cmos-logic-gates/#
  
