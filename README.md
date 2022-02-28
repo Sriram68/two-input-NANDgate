@@ -7,7 +7,7 @@ This repository presents the design of Two input NAND gate using Synopsis Custom
 
 [Circuit details](https://github.com/Sriram68/two-input-NANDgate#circuit-details)
 
-[Truth table](https://github.com/Sriram68/two-input-NANDgate/edit/main/README.md#truth-table)
+[Truth table](https://github.com/Sriram68/two-input-NANDgate/blob/main/README.md#truth-table)
 
 [Tools used](https://github.com/Sriram68/two-input-NANDgate/edit/main/README.md#tools-used)
 
