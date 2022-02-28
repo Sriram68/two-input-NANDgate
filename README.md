@@ -79,13 +79,15 @@ in both cases is a logic “1”.
 • Synopsys 28nm PDK:
  The Synopsys 28nm Process Design Kit(PDK) was used in creation and simulation of the above designed circuit
  # Circuit diagram in Synopsys Custom Compiler
- 
+ ![circuit diagram NAND](https://user-images.githubusercontent.com/100473775/156037022-8d4d4da2-7315-450d-9943-69893bd65114.png)
+
  
  # Netlist
  Refer to the netlist of the NAND gate [netlist](https://github.com/Sriram68/two-input-NANDgate/blob/main/NAND.cir.out)
  
  # Output waveform of the circuit
- 
+ ![output waveform NAND](https://user-images.githubusercontent.com/100473775/156036923-d9ea5e16-abef-413e-aec3-c02d695bee6f.png)
+
  
  # Author
  
