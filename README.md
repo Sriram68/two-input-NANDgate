@@ -9,19 +9,19 @@ This repository presents the design of Two input NAND gate using Synopsis Custom
 
 [Truth table](https://github.com/Sriram68/two-input-NANDgate/blob/main/README.md#truth-table)
 
-[Tools used](https://github.com/Sriram68/two-input-NANDgate/edit/main/README.md#tools-used)
+[Tools used](https://github.com/Sriram68/two-input-NANDgate/blob/main/README.md#tools-used)
 
-[Circuit diagram in Synopsys Custom Compiler](https://github.com/Sriram68/two-input-NANDgate/edit/main/README.md#circuit-diagram-in-synopsys-custom-compiler)
+[Circuit diagram in Synopsys Custom Compiler](https://github.com/Sriram68/two-input-NANDgate/blob/main/README.md#circuit-diagram-in-synopsys-custom-compiler)
 
-[Netlist](https://github.com/Sriram68/two-input-NANDgate/edit/main/README.md#netlist)
+[Netlist](https://github.com/Sriram68/two-input-NANDgate/blob/main/README.md#netlist)
 
-[Output waveform of the circuit](https://github.com/Sriram68/two-input-NANDgate/edit/main/README.md#output-waveform-of-the-circuit)
+[Output waveform of the circuit](https://github.com/Sriram68/two-input-NANDgate/blob/main/README.md#output-waveform-of-the-circuit)
 
-[Author](https://github.com/Sriram68/two-input-NANDgate/edit/main/README.md#author)
+[Author](https://github.com/Sriram68/two-input-NANDgate/blob/main/README.md#author)
 
-[Acknowledgements](https://github.com/Sriram68/two-input-NANDgate/edit/main/README.md#acknowledgements)
+[Acknowledgements](https://github.com/Sriram68/two-input-NANDgate/blob/main/README.md#acknowledgements)
 
-[References](https://github.com/Sriram68/two-input-NANDgate/edit/main/README.md#references)
+[References](https://github.com/Sriram68/two-input-NANDgate/blob/main/README.md#references)
 
 # Introduction
    Complementary metal–oxide–
