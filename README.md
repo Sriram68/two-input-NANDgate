@@ -91,7 +91,7 @@ When both the inputs are high(i.e.,1.05v) the output of the NAND gate is low(i.e
 Lower reference voltage, Vlow for this circuit is 0v and higher reference voltage, Vhigh is 1.05v.
  ![output waveform NAND](https://user-images.githubusercontent.com/100473775/156036923-d9ea5e16-abef-413e-aec3-c02d695bee6f.png)
 
- 
+ Here the red and violet waves indicate the inputs and the green wave indicates the output.
  # Author
  
  Sriram G V, B.Tech(ECE), Sastra Deemed to be University, Thanjavur.
