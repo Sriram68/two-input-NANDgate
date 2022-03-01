@@ -103,6 +103,8 @@ Lower reference voltage, Vlow for this circuit is 0v and higher reference voltag
 • [Synopsys India](https://www.synopsys.com/)
 
 • [VLSI System Design (VSD) Corp. Pvt. Ltd India](https://www.vlsisystemdesign.com/)
+
+• Kunal Ghosh, Co-founder, VSD Corp.Pvt.Ltd.
 # References
 1. International Journal of Scientific &
 Engineering Research, Volume 7, Issue 1,
@@ -110,5 +112,5 @@ January-2016 ISSN 2229-5518
 
 2. [MOSFET model of a NAND gate](https://forum.digikey.com/t/a-mosfet-model-of-a-nand-gate/13998)
 
-3. [Kunal Ghosh, Co-founder, VSD Corp.Pvt.Ltd.](https://www.iith.ac.in/events/2022/02/15/Cloud-Based-Analog-IC-Design-Hackathon/)
+
  
