@@ -36,6 +36,8 @@ analog circuits such as image sensors (CMOS
 sensors), data converters, RF circuits (RF
 CMOS), and highly integrated transceivers for
 many types of communication.
+
+It is well known that the NAND gate is considered the universal logic gate. Logic gates are usually comprised of a system of transistors and other components all varying in the complexity of design depending on the manufacturer.
 # Reference circuit diagram
 ![image](https://user-images.githubusercontent.com/100473775/155977790-f91fabbf-01cc-422f-998c-af3a539cf38b.png)
 # Circuit details
