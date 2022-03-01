@@ -106,5 +106,5 @@ Lower reference voltage, Vlow for this circuit is 0v and higher reference voltag
 Engineering Research, Volume 7, Issue 1,
 January-2016 ISSN 2229-5518
 
-2. [](https://forum.digikey.com/t/a-mosfet-model-of-a-nand-gate/13998)
+2. [MOSFET model of a NAND gate](https://forum.digikey.com/t/a-mosfet-model-of-a-nand-gate/13998)
  
