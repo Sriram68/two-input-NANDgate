@@ -102,9 +102,9 @@ Lower reference voltage, Vlow for this circuit is 0v and higher reference voltag
 
 • [VLSI System Design (VSD) Corp. Pvt. Ltd India](https://www.vlsisystemdesign.com/)
 # References
-[1] International Journal of Scientific &
+1. International Journal of Scientific &
 Engineering Research, Volume 7, Issue 1,
 January-2016 ISSN 2229-5518
 
-[2] https://eepower.com/technicalarticles/basic-cmos-logic-gates/#
+2. [Mosfet model of a NAND gate](https://forum.digikey.com/t/a-mosfet-model-of-a-nand-gate/13998)
  
